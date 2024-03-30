@@ -1,2 +1,1 @@
-# kana-senpai
-simple hiragana/katakana flashcards
+# Simple Hiragana/Katakana flashcards
